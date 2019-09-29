@@ -1,5 +1,4 @@
 # Spotify Recently Saved Songs
-This Repo is the result of a tutorial that teaches how to use Spotify's API with react.
 It's a simple app that allows users to create a spotify playlist from their 20 (or 30) most recently saved/liked songs! It also allows users to see what song they currently have playing on Spotify.
 There are two parts to it, the auth-server, and the client. 
 
