@@ -1,4 +1,5 @@
 # Spotify Recently Saved Songs
+(Based off of tuturial from Johny Kalambay - https://www.youtube.com/watch?v=prayNyuN3w0 )
 It's a simple app that allows users to create a spotify playlist from their 20 (or 30) most recently saved/liked songs! It also allows users to see what song they currently have playing on Spotify.
 There are two parts to it, the auth-server, and the client. 
 
